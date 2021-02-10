@@ -1,2 +1,5 @@
 # portifolio
-Primeiro projeto do desenvolvedor
+
+## Tarefas
+
+O controle das tarefaas desse projeto será realizado no GitHub
